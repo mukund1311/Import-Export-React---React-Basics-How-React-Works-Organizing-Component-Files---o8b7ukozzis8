@@ -1,14 +1,16 @@
 import React, { Component, useState } from "react";
 import '../styles/App.css';
 
-const App = () => {
+export default function App() {
   return (
-    <div id="main">
-      < />
-      < />
-      < />
-      < />
-    </div>
+    <>
+    
+
+      <Heading/>
+      <InputQuery/>
+      <SubHeading/>
+      <SubmitButton/>
+    </>
   )
 }
 
