@@ -5,7 +5,7 @@ import  InputQuery from './components/InputQuery'
 import  SubmitButton from './components/SubmitButton'
 import '../styles/App.css';
 
-export const function App() {
+export const  App = () => {
   return (
     <>
     
