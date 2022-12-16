@@ -1,8 +1,8 @@
 import React, { Component, useState } from "react";
-import  Heading from './components/Heading'
-import  SubHeading from './components/SubHeading'
-import  InputQuery from './components/InputQuery'
-import  SubmitButton from './components/SubmitButton'
+import  Heading from './Heading'
+import  SubHeading from './SubHeading'
+import  InputQuery from './InputQuery'
+import  SubmitButton from './SubmitButton'
 import '../styles/App.css';
 
 export const  App = () => {
